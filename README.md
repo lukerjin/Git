@@ -22,5 +22,3 @@ Press ESC and then type :wq
 
 
 ### Updates
-new
-"zzz" 
