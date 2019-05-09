@@ -1,4 +1,4 @@
-###Getting & Creating Projects
+### Getting & Creating Projects
 | Command | Description |
 | ------- | ----------- |
 | `git init` | Initialize a local Git repository
