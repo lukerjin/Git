@@ -11,3 +11,4 @@
 To exist the commit insert, press ESC and then type :wq
 Hello world
 add new branch
+added new thing
