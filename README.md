@@ -8,4 +8,5 @@
 ### Reference Sites
 [book git-scm](https://book.git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 # New lines for commit happens
-To exist the commit insert, press ESC and then type :wq
+To exist the commit insert, press ESC and then type :wqFetching origin Fetching origin Fetching origin
+Already up to date.
