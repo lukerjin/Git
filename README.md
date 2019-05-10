@@ -22,6 +22,11 @@ Press ESC and then type :wq
 ### Remote banch deleted, but still able to see in local
 Use `git remote prune origin` to remove remote deleted branch
 
+### Delete remote branch
+`git push --delete <remote_name> <branch_name>`
+`git branch -d <branch_name>`
+
 ### Reference Sites
 [book git-scm](https://book.git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)  
 [How to fetch all Git branches](https://stackoverflow.com/questions/10312521/how-to-fetch-all-git-branches)  
+[How do I delete a Git branch locally and remotely?](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely)  
